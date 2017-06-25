@@ -1,3 +1,3 @@
 <template>
-  <p>Here is a demo page</p>
+  <p>Here is an updated demo page</p>
 </template>
