@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        NUXT
+        <nuxt-link to="/demo">NUXT</nuxt-link>
       </h1>
       <h2 class="subtitle">
         Universal Vue.js Application
